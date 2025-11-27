@@ -39,7 +39,7 @@ rss_subscribe:
   github_username: huang233893
   github_repo: Friend-Circle-Lite
   your_blog_url: https://www.sumi233.top/
-  email_template: "./push_templates/default.html"
+  email_template: "./push_templates/sumi.html"
   website_info:
     title: "酥米的小站"
 
