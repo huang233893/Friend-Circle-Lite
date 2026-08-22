@@ -83,7 +83,17 @@ smtp:
 # 特殊 RSS 地址指定
 # 说明：用于指定特殊 RSS 地址，比如 B 站专栏等不常见 RSS 地址后缀。可以置空，但不要删除此项。
 specific_RSS:
-  - name: "阮一峰"
-    url: "http://feeds.feedburner.com/ruanyifeng"
+  - name: "青灯暮雨"
+    url: "https://www.blatr.cn/api/v1/subscribe/rss"
+  - name: "Fiee’s Blog"
+    url: "https://www.aifiee.cn/feed"
+  - name: "AptU"
+    url: "https://aptu.net/rss.xml"
+  - name: "天渺 studio"
+    url: "https://blog.tianmiao.site/feed.xml"
+  - name: "懋和道人"
+    url: "https://blog.dao.js.cn/atom.xml"
+  - name: "定の栈"
+    url: "https://blog.saop.cc/atom.xml"
   # - name: "无名小栈"
   #   url: "https://blog.imsyy.top/rss.xml"
